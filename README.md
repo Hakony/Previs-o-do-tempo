@@ -1,12 +1,19 @@
-# React + Vite
+Desenvolvi um aplicativo de previsão do tempo utilizando React como framework principal, com Vite para otimizar o ambiente de desenvolvimento. A aplicação consome dados de uma API externa por meio do Axios, permitindo buscar informações climáticas em tempo real, como temperatura, condições do céu e localização.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O app possui uma interface responsiva e intuitiva, que se adapta a diferentes tamanhos de tela, proporcionando uma boa experiência tanto em desktop quanto em dispositivos móveis.
 
-Currently, two official plugins are available:
+🔧 Tecnologias usadas:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React
 
-## Expanding the ESLint configuration
+Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Axios
+
+✨ Destaques:
+
+Consulta em tempo real de dados climáticos.
+
+Interface simples, responsiva e fácil de usar.
+
+Integração eficiente com API de previsão do tempo.
